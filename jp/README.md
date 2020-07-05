@@ -4,7 +4,7 @@
 
 この「100本ノック」は、numpyのメーリングリストやStack Overflowでの議論、およびその他のドキュメントをもとに作成しました。100問に到達するために、いくつか自作した問題も含まれます。この100本ノックのゴールは、numpyの新規ユーザーにも経験者にも有用なクイックリファレンスとなること、また、numpyを教育する人が利用できる実習問題セットの提供です。より応用的な問題については、[From Python to NumPy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)を参照してください。
 
-→ [Binderで実習環境を起動する](http://mybinder.org:/repo/ltl-manabi/numpy-100/jp/notebooks/100_Numpy_exercises.ipynb)  
+→ [Binderで実習環境を起動する](http://mybinder.org:/repo/ltl-manabi/numpy-100/jp/100_Numpy_exercises.ipynb)  
 → [GitHubで問題を表示する](100_Numpy_exercises.md) 
 
 注: MarkdownドキュメントとIPython (Jupyter) ノートブックは、`sources/exercises.ktx`ファイルから自動的に生成しています。問題文を改変する際には、ソースファイルを編集し、`requirements.txt`に記載されているライブラリを導入したうえで、`generators.py`を実行してください。
@@ -16,3 +16,4 @@ The keyed text format (`ktx`) は、可読性の高い、コンパクトなKey-V
 日本語訳は[タナカケンタ](https://mana.bi/)が行いました。
 
 <!-- [![DOI](https://zenodo.org/badge/10173/rougier/numpy-100.svg)](https://zenodo.org/badge/latestdoi/10173/rougier/numpy-100) -->
+[![DOI](https://zenodo.org/badge/277066719.svg)](https://zenodo.org/badge/latestdoi/277066719)
